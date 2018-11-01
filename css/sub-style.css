@@ -50,7 +50,8 @@ h4 {
   padding-bottom: 30px; }
 
 .items ul {
-  margin: 2px; }
+  margin: 2px;
+  text-align: left; }
 .items a {
   color: #ff5300;
   text-decoration: none;
@@ -76,4 +77,9 @@ h4 {
 
 #footer h4 {
   color: #ddd;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  text-align: center; }
+#footer ul {
+  padding: 0px; }
+#footer li {
+  list-style: none; }
